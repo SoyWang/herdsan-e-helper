@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discover/discover.iml" filepath="$PROJECT_DIR$/discover/discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herdsman-e++.iml" filepath="$PROJECT_DIR$/herdsman-e++.iml" />
+      <module fileurl="file://$PROJECT_DIR$/login/login.iml" filepath="$PROJECT_DIR$/login/login.iml" />
+    </modules>
+  </component>
+</project>
